@@ -1,0 +1,21 @@
+
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+  background: cover;
+}
+.list-inline {
+  list-style: none;
+  color: #1CDD87;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  font-size: 30px;
+}
+.footer p {
+  color: #6B6C6C;
+}
+.footer .fas {
+  color: red;
+}
